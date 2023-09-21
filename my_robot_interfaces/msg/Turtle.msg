@@ -1,0 +1,5 @@
+# turtle info
+float32 x
+float32 y
+float32 theta
+string name
