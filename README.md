@@ -1,6 +1,6 @@
 # Follow Turtle Robot
 ## Introduction and brief description
-The project involves spawning new turtles at random locations on a prepared map 2D, with one designated robot 'collecting' them either from the nearest or the oldest one added. Topics, Services, and Parameters were utilized. Two Launch Files have been prepared. The project is fully autonomous, with the robot dynamically calculating the route and destination. It represents the culmination and utilization of all the fundamental concepts related to ROS2, opening the door to more complex projects. Currently, as I delve into the realm of ROS2, I am learning Gazebo and related topics
+The project involves spawning new turtles at random locations on a prepared map 2D, with one designated robot 'collecting' them either from the nearest or the oldest one added. Topics, Services, and Parameters were utilized. Two Launch Files have been prepared. The project is fully autonomous, with the robot dynamically calculating the route and destination. It represents the culmination and utilization of all the fundamental concepts related to ROS2, opening the door to more complex projects. Currently, as I delve into the realm of ROS2, I am learning Gazebo and related topics.
 
 My previous smaller projects in ROS2:
 - [collection of projects](https://github.com/Mateoswiatek/ROS2_other_small_projects)
